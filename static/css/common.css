@@ -1,0 +1,258 @@
+p,
+div,
+span,
+button,
+input,
+ul,
+li,
+a,
+header,
+footer,
+form,
+label,
+img,
+body,
+html,
+small,
+h4,
+h1,
+h2,
+h3,
+h5,
+h6,
+i,
+b {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: helvetica;
+  margin: 0;
+  -webkit-overflow-scrolling: touch;
+  background: #1c1d21;
+}
+
+* {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+a,
+button,
+input {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+button,
+input {
+  border-radius: 0;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  outline: none;
+  vertical-align: middle;
+  border: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.clear {
+  overflow: hidden;
+  _zoom: 1;
+}
+
+img {
+  vertical-align: middle;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.red {
+  color: #ff455e !important;
+}
+
+.orange {
+  color: #fc9023 !important;
+}
+
+.gold {
+  color: #D2D978 !important;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.color0BE2F4 {
+  color: #0BE2F4 !important;
+}
+
+.green {
+  color: #42b66f !important;
+}
+
+.clearfix:after {
+  content: "";
+  display: block;
+  overflow: hidden;
+  clear: both;
+}
+
+.mabtm30 {
+  margin-bottom: 30px !important;
+}
+
+.mabtm32 {
+  margin-bottom: 32px !important;
+}
+
+.mabtm42 {
+  margin-bottom: 42px !important;
+}
+
+.mabtm57 {
+  margin-bottom: 57px !important;
+}
+
+.mabtm20 {
+  margin-bottom: 20px !important;
+}
+
+.maTop330 {
+  margin-top: 330px;
+}
+
+.nav-active {
+  color: #d53745 !important;
+  border-bottom: 1px solid #d53745 !important;
+}
+
+/*超出显示导航条样式*/
+
+/* body::-webkit-scrollbar { */
+/* 滚动条整体样式 */
+/* width: 0px; */
+/* 高宽分别对应横竖滚动条的尺寸 */
+/* height: 0px; */
+/* } */
+/*  */
+/* body::-webkit-scrollbar-thumb { */
+/* 滚动条里面小方块 */
+/* border-radius: 0; */
+/* background: transparent; */
+/* } */
+/*  */
+/* body::-webkit-scrollbar-track { */
+/* 滚动条里面轨道 */
+/* border-radius: 0; */
+/* background: transparent; */
+/* } */
+/* //滚动条的宽度 */
+/* ::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+} */
+
+/* //滚动条的滑块 */
+/* ::-webkit-scrollbar-thumb {
+  background-color: rgba(216, 216, 216, 0.9);
+  border-radius: 3px;
+} */
+
+/* 去掉input的箭头 */
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+input[type="number"] {
+  -webkit-appearance: none;
+  -moz-appearance: textfield;
+}
+
+.info-btn {
+  background: #E1AC0A !important;
+  border-color: #E1AC0A !important;
+}
+
+/* 表格修改 */
+.el-table::before,
+.el-table__fixed-right::before,
+.el-table__fixed::before {
+  height: 0 !important;
+}
+
+.el-table--scrollable-x .el-table__body-wrapper::-webkit-scrollbar {
+  /*滚动条整体样式*/
+  width: 8px !important;
+  /*高宽分别对应横竖滚动条的尺寸*/
+  height: 8px !important;
+}
+
+.el-table--scrollable-x .el-table__body-wrapper::-webkit-scrollbar-thumb {
+  /*滚动条里面小方块*/
+  border-radius: 0;
+  -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+  background: #666666;
+}
+
+.el-table--scrollable-x .el-table__body-wrapper::-webkit-scrollbar-track {
+  /*滚动条里面轨道*/
+  -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+  border-radius: 0;
+  background: #2c2c2c;
+}
+
+.el-table--scrollable-y .el-table__body-wrapper::-webkit-scrollbar {
+  /*滚动条整体样式*/
+  width: 0 !important;
+  height: 8px !important;
+}
+
+.bshold-table .el-table__fixed {
+  height: 262px !important;
+}
+
+.bshold-table .el-table__fixed-body-wrapper {
+  height: 232px !important;
+}
+
+.act-style>td {
+  background: #26384e !important;
+}
+
+.el-autocomplete-suggestion li{
+  padding: 0 10px!important;
+}

@@ -1,0 +1,177 @@
+{
+  "id": "1494492",
+  "name": "大将军交易客户端",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "873335",
+      "name": "股票",
+      "font_class": "gupiao",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "941658",
+      "name": "最大化",
+      "font_class": "zuidahua1",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1167139",
+      "name": "查询",
+      "font_class": "chaxun1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1206411",
+      "name": "三角",
+      "font_class": "sanjiao",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "1517637",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "1649166",
+      "name": "最小化",
+      "font_class": "zuixiaohua",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "2803729",
+      "name": "沪深行情",
+      "font_class": "hushenhangqing",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "3521122",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "4485682",
+      "name": "最大化",
+      "font_class": "zuidahua",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5237971",
+      "name": "资金",
+      "font_class": "tubiao-",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "5383657",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "5875892",
+      "name": "卖出记录",
+      "font_class": "maichujilu",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "5875903",
+      "name": "买入记录",
+      "font_class": "mairujilu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "7450614",
+      "name": "撤销",
+      "font_class": "chexiao",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "7760902",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "7908379",
+      "name": "上一步",
+      "font_class": "shangyibu",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "7908383",
+      "name": "下一步",
+      "font_class": "xiayibu",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "9568056",
+      "name": "星星-空",
+      "font_class": "xingxing-kong",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "9568072",
+      "name": "星星-实",
+      "font_class": "xingxing-shi",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "10055632",
+      "name": "API密钥",
+      "font_class": "APImiyue",
+      "unicode": "e7d8",
+      "unicode_decimal": 59352
+    },
+    {
+      "icon_id": "10232749",
+      "name": "查询",
+      "font_class": "chaxun3",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "10458098",
+      "name": "资产概况",
+      "font_class": "zichangaikuang",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "10721364",
+      "name": "指数",
+      "font_class": "zhishu",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "11346894",
+      "name": "头像",
+      "font_class": "touxiang",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
